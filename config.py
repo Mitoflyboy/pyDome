@@ -5,7 +5,8 @@ from decimal import Decimal
 #------------------------------------------------------------------
 # User defined variables
 
-R_mm = 6000         # Radius of the circle in millimeters
+# Radius = 10668mm = 35ft = 70ft diameter
+R_mm = 10668         # Radius of the circle in millimeters
 frequency_n = 1     # Frequency of the geodesic
 Dome_calc = False    # Calculate for sphere (=False) or dome (=True)
 
